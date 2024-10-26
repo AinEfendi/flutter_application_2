@@ -1,3 +1,6 @@
-2024/10/26-18:23:44.480 2388 Reusing MANIFEST C:\Users\Nurulain\AppData\Local\Temp\flutter_tools.3a26eba0\flutter_tools_chrome_device.2aad7271\Default\shared_proto_db/MANIFEST-000001
-2024/10/26-18:23:44.481 2388 Recovering log #3
-2024/10/26-18:23:44.482 2388 Reusing old log C:\Users\Nurulain\AppData\Local\Temp\flutter_tools.3a26eba0\flutter_tools_chrome_device.2aad7271\Default\shared_proto_db/000003.log 
+2024/10/26-18:52:53.487 598 Reusing MANIFEST C:\Users\Nurulain\AppData\Local\Temp\flutter_tools.44515623\flutter_tools_chrome_device.5a1f91d1\Default\shared_proto_db/MANIFEST-000001
+2024/10/26-18:52:53.488 598 Recovering log #3
+2024/10/26-18:52:53.489 598 Reusing old log C:\Users\Nurulain\AppData\Local\Temp\flutter_tools.44515623\flutter_tools_chrome_device.5a1f91d1\Default\shared_proto_db/000003.log 
+2024/10/26-18:53:20.233 598 Level-0 table #5: started
+2024/10/26-18:53:20.262 598 Level-0 table #5: 132398 bytes OK
+2024/10/26-18:53:20.263 598 Delete type=0 #3
