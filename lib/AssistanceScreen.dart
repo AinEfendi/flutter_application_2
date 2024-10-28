@@ -101,7 +101,7 @@ class AssistanceScreen extends StatelessWidget {
           children: [
             // Image avatar for each speaker
             CircleAvatar(
-              backgroundImage: AssetImage(isLeft ? 'assets/user.jpg' : 'assets/person2.png'), // Replace with image paths
+              backgroundImage: AssetImage(isLeft ? 'assets/user.jpg' : 'assets/seller.jpg'), // Replace with image paths
               radius: 24,
             ),
             const SizedBox(height: 4),
