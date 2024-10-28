@@ -91,3 +91,5 @@ flutter:
 
   assets:
     - assets/YenYen.png
+    - assets/shoppingbag.png
+    - assets/user.jpg
